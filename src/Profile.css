@@ -1,0 +1,27 @@
+.Profile {
+    width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/f5/ca/53/f5ca53b794826020f0ea641c49d262ba.jpg);
+    background-size: 104% ;
+    background-repeat: no-repeat;
+    background-color: rgb(23, 172, 23);
+    -webkit-border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .counter {
+    background-color: rgb(23, 172, 23);
+    border: solid black 4px;
+    border-radius: 15px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-left: 500px; */
+    /* margin-right: 500px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+  }
